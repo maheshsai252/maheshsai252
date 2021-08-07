@@ -5,17 +5,18 @@
 
 - 🌱 I’m currently learning **iOS Development stuff**
 
-- 📝 I regularly write articles on [https://maheshsai252.medium.com](https://maheshsai252.medium.com)
+- ⚙️ I would like to apply **Machine Learning** to my projects for better user experience   
 
-- 💬 Ask me about **swift, SwiftUI**
+- 📝 I regularly write articles on [Medium](https://maheshsai252.medium.com)
 
-- 📫 How to reach me **maheshsai252@gmail.com**
+- 💬 Ask me about **Swift, SwiftUI**
+
+- 📫 Reach me via **maheshsai252@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@maheshsai252/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@maheshsai252/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@maheshsai252/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@maheshsai252/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@maheshsai252/1" alt="Recent Article 1"> 
 
 
 <h3 align="left">Connect with me:</h3>
