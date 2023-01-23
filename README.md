@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Sai</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/maheshsai6364" target="blank"><img src="https://img.shields.io/twitter/follow/maheshsai6364?label=Follow&style=for-the-badge" alt="maheshsai6364" /></a> </p>
+<p align="left"> <a href="https://twitter.com/maheshsai6364" target="blank"><img src="https://img.shields.io/twitter/follow/maheshsai6364?logo=twitter&style=for-the-badge" alt="maheshsai6364" /></a> </p>
 
 - 🌱 I’m currently learning **iOS Development stuff**
 
